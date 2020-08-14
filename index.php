@@ -6,7 +6,7 @@
 <body>
 
 <h1>Welcome</h1>
-<p>To Ec2 test 123</p>
+<p>To Ec2 Bharmu</p>
 
 </body>
 </html>
