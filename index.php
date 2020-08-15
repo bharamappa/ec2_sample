@@ -13,11 +13,9 @@
 
 One can divide and conquer the Devops culture by mastering below given tools/topics. Devops can be categorized as following</p>
 
-  <h3>Version Control</h3>
-<p>SVN
-GIT
-  Perforce</p>
-  <h3>Build Tools</h3>
+  <h5>Version Control</h5>
+echo nl2br("SVN\nGIT\nPerforce\n");  
+  <h5>Build Tools</h5>
 <p>Ant
 Maven
   Gradle</p>
